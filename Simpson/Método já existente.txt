@@ -1,0 +1,3 @@
+No octave existe as funções 'quad', 'quadv' e 'quadl', para realizar o calculo pelo métodos de Simpson, principalmente a
+quadv.
+quadv('função',a,b). <- A função como string, e os intervalos 'a' e 'b'.

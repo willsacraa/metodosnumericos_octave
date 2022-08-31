@@ -1,0 +1,1 @@
+O método 'trapz(x,y)' já existe no octave e pode ser usado para o cálculo pelo método do trapézio composto.
